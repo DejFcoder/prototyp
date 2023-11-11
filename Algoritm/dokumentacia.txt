@@ -1,0 +1,21 @@
+Tento náš prototyp je len na ukážku základného fungovania logiky ktorú sme vymysleli na zjednoduchšenom príklade a ide teda o to:
+
+1.	v triede Projekt.cs je vytvorený objekt krorý reprezentuje náš investičný projekt s nejakými preddefinovanými 
+    vlastnosťami ale toto sa v našej úvahe nebude robiť takto manuálne ale tieto informácie budú ťahané z databázy
+
+2.	následne sme v triede Metody.cs spravili nejaké základné metódy ktoré riešia nejaké problematické operácie ako 
+    napríklad výpočet voľných financií alebo ukladanie týchto voľných financií do poľa, čo reprezentuje ukladanie do 
+    databázy.
+
+
+3.	Vytvorenie náhľadu šablónového systému a to na báze vlastnosti projektu ako je moc veľký a náročný na operácie a 
+    toto celé riešime systémom pár preddefinovaných šablón ktoré budú ľahko prispôsobovateľné projektu podľa zamestnanca 
+    ale automaticky sa priradí projektu najviac vyhovujúca
+
+4.	Ďalej sme tu navrhli automatický systém (ten náš je len prototyp) ktorý rieši prístupové práva alebo hiersrchiu 
+    ktorá rieši, že kto je nad kým a tieto práva budu ťahané z active directory. V našom prototype je to cez Vedenie 
+    ktoré je najvyššie a pod ním je vedenie útvarov v ktorom sú všetky jednotlivé útvary
+
+5.	A celé to fungovanie je založené na tom, že každý útvar vykonáva svoju časť úlohy  a posiela reporting vyžšiemu 
+    útvaru ktorý s tým može ďalej nejako narábať ale hlavný zámer toho je aby nemuselo vedenie si zisťovať čo sa 
+    nachádza v akom stave ale má rovno k tomu prístup a môže konať.

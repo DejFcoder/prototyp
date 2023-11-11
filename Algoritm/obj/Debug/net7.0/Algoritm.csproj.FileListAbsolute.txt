@@ -1,0 +1,14 @@
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.exe
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.deps.json
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.runtimeconfig.json
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.dll
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\bin\Debug\net7.0\Algoritm.pdb
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.AssemblyInfoInputs.cache
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.AssemblyInfo.cs
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.csproj.CoreCompileInputs.cache
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.dll
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\refint\Algoritm.dll
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.pdb
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\Algoritm.genruntimeconfig.cache
+C:\Users\treba\Desktop\prg\C# ALL\Hackathon\Algoritm\Algoritm\obj\Debug\net7.0\ref\Algoritm.dll
